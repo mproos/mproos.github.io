@@ -1,5 +1,11 @@
 ## Ongoing things
 
+### "Open doors" day at the university
+
+On the 26th of February the University of Tartu will hold an "open doors" day for future students. Each institute is invited to hold a short workshop / information session to explain what they teach and research. I will be leading a workshop "Katsed keel(te)ga" ("Experiments with language(es)" - it sounds better in Estonian) where I will be introducing the Institute of Esonian and General Linguistics, with a focus on the various interesting experiments we run at our institute.
+
+---
+
 ### Science in three minutes
 
 Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing young researchers. My talk was titled "Meaning as a tool for understanding the world". You can watch the whole event [here (in Estonian).](https://www.youtube.com/watch?v=O6c6n2M_Leg&feature=emb_title) Estonian National Television will produce clips with all of the winners, they will be played in the morning news / talkshow and viewers can choose their favourite!
