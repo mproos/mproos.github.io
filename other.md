@@ -4,6 +4,8 @@
 
 Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing your researchers. My talk was titled "Meaning as a tool for understanding the world". You can watch the whole event [here (in Estonian).](https://www.youtube.com/watch?v=O6c6n2M_Leg&feature=emb_title)
 
+<img src="/images/TA3.jpg" width="355" height="240">
+Author: Meeli Küttim
 
 
 --- 
