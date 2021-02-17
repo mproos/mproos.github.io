@@ -23,6 +23,10 @@ I am interested in language and meaning and stuff. I like experiments.
 
 ---
 
+### Presentations and talks
+
+[These are the presentations and invited talks I have given](/presentations)
+
 ### Personal
 
 [Find out more about me](/personal)
