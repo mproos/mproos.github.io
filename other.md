@@ -1,16 +1,12 @@
 ## This is where I talk about my other projects
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Science in three minutes
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing your researchers. This experience was great and I will write more about it some other time.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### Abstractness and concreteness of Estonian words
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Together with my colleague Mari Aigro, we launched a project to collect abstractness and concreteness ratings for 40 000 Estonian words. 
 
 ### 2. Assess assumptions on which statistical inference will be based
 
