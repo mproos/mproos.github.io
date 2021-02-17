@@ -1,9 +1,10 @@
 title: Mariann Proos # your name (or website title) here
 logo: "/images/profilepic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   Hi! I am Mariann Proos, a junior research fellow at the University of Tartu.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.researchgate.net/profile/Mariann_Proos">View my ResearchGate profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
