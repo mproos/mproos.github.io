@@ -23,7 +23,7 @@ What I'm currently working on and what I find interesting.
 ---
 ### Other projects
 
-This is a collection of miscellanious research-related stuff, both present and past. Includes other research projects I have participated in, but also public outreach, teaching, organizing and whatever else I currently have time to do.
+This is a collection of miscellaneous things, academic and academia-adjacent, both present and past. Includes other research projects I have participated in, but also public outreach, teaching, organizing and whatever else I currently have time to do.
 
 [Look at all the other stuff I do](/other)
 
@@ -31,14 +31,14 @@ This is a collection of miscellanious research-related stuff, both present and p
 
 ### Presentations and talks
 
-I love giving talks! 
+I love giving talks!  
 [These are the presentations and invited talks I have given](/presentations)
 
 ---
 
 ### Personal
 
-TL;DR I like dogs, coffee, and lifting weights.
+TL;DR I like dogs, coffee, beer, plants and lifting weights.
 
 [Find out more about me](/personal)
 
