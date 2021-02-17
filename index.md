@@ -4,31 +4,27 @@
 
 ### Research interests 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I am interested in language and meaning and stuff. I like experiments.
+[Find out more about my research interests](/research)
 
 ---
 
 ### Publications
 
-- [Project 1 Title](http://example.com/)
+- [SKY article](http://www.linguistics.fi/julkaisut/sky2020.shtml/)
 - [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+
+---
+### Other projects
+
+[Look at all the other stuff I do](/other)
 
 ---
 
 ### Personal
 
+[Find out more about me](/personal)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
