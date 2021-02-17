@@ -2,11 +2,7 @@
 
 ### Science in three minutes
 
-Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing your researchers. My talk was titled "Meaning as a tool for understanding the world". You can watch the whole event [here (in Estonian).](https://www.youtube.com/watch?v=O6c6n2M_Leg&feature=emb_title)
-
-![Image](/images/TA3.jpg)
-Author: Meeli Küttim
-
+Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing young researchers. My talk was titled "Meaning as a tool for understanding the world". You can watch the whole event [here (in Estonian).](https://www.youtube.com/watch?v=O6c6n2M_Leg&feature=emb_title)
 
 --- 
 
@@ -16,5 +12,6 @@ Together with my colleague Mari Aigro, we launched a project to collect abstract
 
 ---
 
+### 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
