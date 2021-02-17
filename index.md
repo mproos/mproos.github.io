@@ -4,7 +4,7 @@
 
 ### Research interests 
 
-I am interested in language and meaning and stuff. I like experiments.
+What I'm currently working on and what I find interesting.
 
 [Find out more about my research interests](/research)
 
@@ -23,17 +23,22 @@ I am interested in language and meaning and stuff. I like experiments.
 ---
 ### Other projects
 
+This is a collection of miscellanious research-related stuff, both present and past. Includes other research projects I have participated in, but also public outreach, teaching, organizing and whatever else I currently have time to do.
+
 [Look at all the other stuff I do](/other)
 
 ---
 
 ### Presentations and talks
 
+I love giving talks! 
 [These are the presentations and invited talks I have given](/presentations)
 
 ---
 
 ### Personal
+
+TL;DR I like dogs, coffee, and lifting weights.
 
 [Find out more about me](/personal)
 
