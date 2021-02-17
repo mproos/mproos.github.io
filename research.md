@@ -1,31 +1,14 @@
-## This is where I talk about my research interests
+### This is where I talk about my research interests
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+#### Where I am currently
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+My PhD journey is coming to an end as I am defending my dissertation on the 26th of March. The defence will take place on Zoom - everyone is welcome! My dissertation is titled "Meaning and usage of Estonian experience perception verbs" and the title pretty much describes everything that is in it. In the dissertation, I focus on 5 Estonian experience perception verbs, their meaning and usage. The focus is on the polysemy of these verbs, as perception verbs have been shown to be polysemous across languages. To answer my research questions, I used both experimental methods (sorting task, conceptual feature rating task) and corpus-based methods (behavioral profile analysis) together with various statistical methods (hierarchical clustering, multidimensional scaling, random forests, mixed effects modelling). You can read more about it as soon as the dissertation is published!
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+It was a very interesting 4 years and I definitely grew a lot as a researcher - I feel ready to tip my toe into the real world!
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+#### What's next?
 
-### 2. Assess assumptions on which statistical inference will be based
+Now I am looking to build upon my existing knowledge but also broaden my horizons. Going forward, I still want to focus my research on semantics. For me, semantics is undoubtedly the most interesting facet of language. From the time I started thinking about these things in the first years of my BA up until now, meaning has striked me as something so essential to our experience of the world but at the same time so elusive. That is what makes semantics so interesting to me - there is so much to discover! 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+I am now starting the tedious task of finding a postdoc position where I can continue to grow as a linguist and deal with some topics close to my heart (or brain?). Some  topics that are currently floating around in the back of my head include: processing of polysemy, different dimensions of concepts (modality norms, abstractness-concreteness), polysemy and syntactic variation,  polysemy and the coding of arguments, ...
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
