@@ -31,3 +31,9 @@ I helped Nele Ots (Goethe University in Frankfurt am Mein) run an eye-tracking s
 #### Organizing the ICLC-14 conference (Septmeber 2016 to July 2017)
 
 In the summer of 2017 when I had just started my PhD in the fall semester of 2016, I was a part of the team organizing the 14th International Cognitive Linguistics Conference. My role as the conference secretary was to be there for all non-scientific tasks that were needed. I got to do so many different things and had the luck to work with an amazing organising team. Organising a conference with 500 guests from all over the world was definitely a challenge as a first year student, but I learned so much from it and I will never take a well organised conference for granted again. 
+
+---
+
+## Teaching
+
+Currently, I am teaching an undergrad class for academic Estonian (since spring 2020) and I am one of the three people teaching a course about how to write and present popular science. In the past, I have been a TA in the General Linguistics course (from fall 2016 to fall 2019) and given a couple of lectures in the course Language in Use.
