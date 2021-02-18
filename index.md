@@ -6,8 +6,7 @@
 
 ### Research interests 
 
-What I'm currently working on and what I find interesting.
-
+What I'm currently working on and what I find interesting.  
 [Find out more about my research interests](/research)
 
 ---
@@ -40,9 +39,14 @@ I love giving talks!
 
 ### Personal
 
-TL;DR I like dogs, coffee, beer, plants and lifting weights.
-
+TL;DR I like dogs, coffee, beer, plants and lifting weights.  
 [Find out more about me](/personal)
+
+---
+
+### Contact
+
+[How to get into contact with me](/contacts)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
