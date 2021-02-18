@@ -10,12 +10,6 @@ On the 26th of February the University of Tartu will hold an "open doors" day fo
 
 Recently, I had the chance to participate in the "Science in three minutes" competition organized by the Estonian Academy of the Sciences. At a live event that was broadcast on Novaator (the leading popular science webpage in Estonia), I was declared the winner along with 4 other amazing young researchers. My talk was titled "Meaning as a tool for understanding the world". You can watch the whole event [here (in Estonian).](https://www.youtube.com/watch?v=O6c6n2M_Leg&feature=emb_title) Estonian National Television will produce clips with all of the winners, they will be played in the morning news / talkshow and viewers can choose their favourite!
 
---- 
-
-### Abstractness and concreteness of Estonian words
-
-Together with my colleague Mari Aigro, we launched a project to collect abstractness and concreteness ratings for 40 000 Estonian words. Our ambitious goal is to gather data from 2000 native Estonian speakers - we're doing well so far! [Have a look at our website (in Estonian).](https://www.eestiabstraktsus.ee/)
-
 ---
 
 ### Organizing events in the Arts and Humanities Graduate School
