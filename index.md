@@ -42,7 +42,7 @@ TL;DR I like dogs, coffee, beer, plants and lifting weights.
 
 ### Contact
 
-[How to get into contact with me](/contacts)
+[How to get into contact with me](/contact)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
