@@ -1,10 +1,14 @@
-### This is where I talk about my research interests
-
-#### Where I am currently
+#### What I'm doing now
 
 My PhD journey is coming to an end as I am defending my dissertation on the 26th of March. The defence will take place on Zoom - everyone is welcome! My dissertation is titled "Meaning and usage of Estonian experience perception verbs" and the title pretty much describes everything that is in it. In the dissertation, I focus on 5 Estonian experience perception verbs, their meaning and usage. The focus is on the polysemy of these verbs, as perception verbs have been shown to be polysemous across languages. To answer my research questions, I used both experimental methods (sorting task, conceptual feature rating task) and corpus-based methods (behavioral profile analysis) together with various statistical methods (hierarchical clustering, multidimensional scaling, random forests, mixed effects modelling). You can read more about it as soon as the dissertation is published!
 
 It was a very interesting 4 years and I definitely grew a lot as a researcher - I feel ready to tip my toe into the real world!
+
+#### Abstractness and concreteness of Estonian words
+
+Along with finishing up my PhD and preparing for the defence, we recently launched a new project together with my colleague Mari Aigro. We aim to collect abstractness and concreteness ratings for 40 000 Estonian words. Our ambitious goal is to gather data from 2000 native Estonian speakers - we're doing well so far! [Have a look at our website (in Estonian).](https://www.eestiabstraktsus.ee/) This project is funded by the Estonian Ministry of Education and Research.
+
+---
 
 #### What's next?
 
