@@ -5,9 +5,8 @@
 
 I love to lift heavy and I do powerlifting-style training.
 
-My for now humble PRs are DL 105 kg x 1; SQUAT 65 kg x 2; BENCH 42.5 kg x 2
+My for now humble PRs are DL 105 kg x 1; SQUAT 65 kg x 2; BENCH 42.5 kg x 2 
 
-Due to COVID and having an operation, I haven't been to the gym in a couple of months... can't wait to get back!
 
 ### Dogs
 
