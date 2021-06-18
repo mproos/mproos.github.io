@@ -20,7 +20,7 @@ What I'm currently working on and what I find interesting.
 ---
 ### Other projects
 
-This is a collection of miscellaneous things, academic and academia-adjacent, both present and past. Includes other research projects I have participated in, but also public outreach, teaching, organizing and whatever else I currently have time to do.
+This is a collection of miscellaneous things, academic and academia-adjacent, both present and past. Includes other research projects I have participated in, but also public outreach, teaching, organizing and everything else.
 
 [Look at all the other stuff I do](/other)
 
