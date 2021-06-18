@@ -26,7 +26,7 @@ I participated in my supervisor Jane Klavan's project "The Making and Breaking o
 
 #### Eye-tracking task (December 2019 to February 2020)
 
-I helped Nele Ots (Goethe University in Frankfurt am Main) run an eye-tracking study in her project "Planning sentences and sentence intonation cross-linguistically". This was my first time using an eye-tracker, made me want to try it out for myself!
+I helped Nele Ots (Goethe University in Frankfurt am Main) run an eye-tracking study in her project "Planning sentences and sentence intonation cross-linguistically". 
 
 #### Organizing the ICLC-14 conference (Septmeber 2016 to July 2017)
 
