@@ -11,7 +11,6 @@ My for now humble PRs are DL 105 kg x 1; SQUAT 65 kg x 2; BENCH 42.5 kg x 2
 ### Dogs
 
 I have a dog named Loki, who is an 8-ish year old large mutt I adopted from a local shelter. He is absolutely amazing, and like all dogs, the best dog in the world.
-Picture coming soon!
 
 ### Beers
 
