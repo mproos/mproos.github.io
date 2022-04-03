@@ -25,5 +25,6 @@
 
 **Proos, Mariann (2020).** Data & script for the article “Usage patterns of Estonian experience perception verbs: A random forest approach.” Open Science Framework. (https://osf.io/jshvf/)
 **Proos, Mariann (2020).** Data & script for the article “Feeling your neighbor: An experimental approach to the polysemy of tundma ‘to feel’ in Estonian.” Open Science Framework. (https://osf.io/ptd7n/)
+
 **Proos, Mariann (2019).** Data & script for the article “Polysemy of the Estonian perception verb nägema ‘to see.’” Open Science Framework . (https://osf.io/gm5se/)
 
