@@ -23,7 +23,7 @@
 
 ## My datasets & scripts
 
-**Proos, Mariann (2020).** [Data & script for the article “Usage patterns of Estonian experience perception verbs: A random forest approach.”.] (https://osf.io/jshvf/) Open Science Framework.  
+**Proos, Mariann (2020).** [Data & script for the article “Usage patterns of Estonian experience perception verbs: A random forest approach.”.](https://osf.io/jshvf/) Open Science Framework.  
 **Proos, Mariann (2020).** [Data & script for the article “Feeling your neighbor: An experimental approach to the polysemy of tundma ‘to feel’ in Estonian.”.](https://osf.io/ptd7n/) Open Science Framework.  
 **Proos, Mariann (2019).** [Data & script for the article “Polysemy of the Estonian perception verb nägema ‘to see.’”.](https://osf.io/gm5se/) Open Science Framework . 
 
