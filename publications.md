@@ -16,7 +16,7 @@
 
 #### Popular science etc.
 
-**Proos, Mariann (2021).** [Ühiskonna mõjust tähendusele, tähenduse mõjust ühiskonnale](https://ajakiri.muuseum.ee/uhiskonna-mojust-tahendusele-tahenduse-mojust-uhiskonnale/) Muuseum nr 1 (46) - Hooliv muuseum?! 
+**Proos, Mariann (2021).** [Ühiskonna mõjust tähendusele, tähenduse mõjust ühiskonnale](https://ajakiri.muuseum.ee/uhiskonna-mojust-tahendusele-tahenduse-mojust-uhiskonnale/) Muuseum nr 1 (46) - Hooliv muuseum?!
 **Proos, Mariann (2021).** [Sõnade tähendus muudab maailmataju.](https://novaator.err.ee/1608078214/sonade-tahendus-muudab-maailmataju) Novaator, 19.01.2021.
 **Proos, Mariann (2016).** [Mida me näeme, kui me näeme vaeva?](https://novaator.err.ee/260045/mida-me-naeme-kui-me-naeme-vaeva) Novaator, 28.12.2016
 
