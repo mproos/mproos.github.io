@@ -21,6 +21,9 @@
 **Proos, Mariann (2021).** [Sõnade tähendus muudab maailmataju.](https://novaator.err.ee/1608078214/sonade-tahendus-muudab-maailmataju) Novaator, 19.01.2021.  
 **Proos, Mariann (2016).** [Mida me näeme, kui me näeme vaeva?](https://novaator.err.ee/260045/mida-me-naeme-kui-me-naeme-vaeva) Novaator, 28.12.2016
 
+#### My PhD thesis
+
+**Proos, Mariann (2021).** [Meaning and usage of Estonian experience perception verbs.](https://dspace.ut.ee/handle/10062/71426) Dissertationes Linguisticae Universitatis Tartuensis 41.  
 
 ## My datasets & scripts
 
