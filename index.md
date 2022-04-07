@@ -11,9 +11,9 @@ What I'm currently working on and what I find interesting.
 
 #### Recent publications
 
-- Proos, Mariann (2021). [Sõnade tähendus muudab maailmataju.](https://novaator.err.ee/1608078214/sonade-tahendus-muudab-maailmataju) Novaator, 19.01.2021.
+- **Proos, Mariann (2021).** [Kuidas eesti keeles vaeva nähakse ja naabrit tuntakse.](https://www.emakeeleselts.ee/wp-content/uploads/2021/12/Proos.pdf) Oma Keel, 43, 31−36. 
 
-- Proos, Mariann (2020). Usage patterns of Estonian experience perception verbs: a random forest approach. SKY Journal of Linguistics, 33, 67-101.
+- **Proos, Mariann (2020).** Usage patterns of Estonian experience perception verbs: a random forest approach. SKY Journal of Linguistics, 33, 67-101.
 
 [See all publications](/publications)
 
