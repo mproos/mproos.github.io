@@ -4,7 +4,7 @@ After defending my thesis in March 2021, I have been floating around different p
 
 ###  In the meanwhile
 
-While I'm looking for funding to realize these new ambitions, I'm invloved in the following "projects":  
+While I'm looking for funding to realize these new ambitions, I'm invloved in the following projects:  
 
 #### Semantic ratings for Estonian words
 
