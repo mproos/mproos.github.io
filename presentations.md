@@ -13,4 +13,6 @@
 
 ### Invited talks
 
-**2018 January.** Grammar & Cognition Colloquium series, Nijmegen. Invited talk "Seeing pain and feeling history – the what and how of Estonian perception verbs".
+**2018 January.** Grammar & Cognition Colloquium series, Nijmegen. Invited talk "Seeing pain and feeling history – the what and how of Estonian perception verbs".  
+**2022 April.** EKM training program for Estonian as a foreign languages teachers, training day "Going into language". Invited talk "Polysemy in language: the case of perception verbs".  
+**2022 May.** UT Estonian and General Linguistics Institute talk series "TÜ Ling", Tartu. Invited talk "Concreteness of Estonian words: collecting and using ratings".  
