@@ -11,9 +11,11 @@ What I'm currently working on and what I find interesting.
 
 #### Recent publications
 
+- **Aigro, Mari; Proos, Mariann (2022)** [Konkreetsushinnangute kogumine eestikeelsetele sõnadele.](http://arhiiv.rakenduslingvistika.ee/ajakirjad/index.php/aastaraamat/article/download/ERYa18.01/532) Eesti Rakenduslingvistika Ühingu Aastaraamat / Estonian Papers in Applied Linguistics. DOI: 10.5128/ERYa18.01. 
+
 - **Proos, Mariann (2021).** [Kuidas eesti keeles vaeva nähakse ja naabrit tuntakse.](https://www.emakeeleselts.ee/wp-content/uploads/2021/12/Proos.pdf) Oma Keel, 43, 31−36. 
 
-- **Proos, Mariann (2020).** [Usage patterns of Estonian experience perception verbs: a random forest approach.](http://www.linguistics.fi/julkaisut/SKY2020/SKYJoL33_Proos.pdf) SKY Journal of Linguistics, 33, 67-101.  
+- **Proos, Mariann (2021).** [Usage patterns of Estonian experience perception verbs: a random forest approach.](http://www.linguistics.fi/julkaisut/SKY2020/SKYJoL33_Proos.pdf) SKY Journal of Linguistics, 33, 67-101.  
 
 [See all publications](/publications)
 
