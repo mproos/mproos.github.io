@@ -8,7 +8,7 @@ While I'm looking for funding to realize these new ambitions, I'm invloved in th
 
 #### Semantic ratings for Estonian words
 
-Along with finishing up my PhD and preparing for the defence, we launched a new project together with my colleague Mari Aigro in spring 2021. We aim to collect concreteness ratings for 40 000 Estonian words. Our ambitious goal is to gather data from 2000 native Estonian speakers - we're doing well so far. [Have a look at our website (in Estonian).](https://www.eestiabstraktsus.ee/). In March 2022 we secured funding from the Kadri, Nikolai and Gerda Rõuk Fund at our institute to finish collecting the ratings, but to also collect modality and affectiveness ratings fro 500 Estonian nouns. The result of this mini project will be a searchable database with all the ratings. We shall call her **SEMTEEK**.
+Along with finishing up my PhD and preparing for the defence, we launched a new project together with my colleague Mari Aigro in spring 2021. We aim to collect concreteness ratings for 40 000 Estonian words. Our ambitious goal is to gather data from 2000 native Estonian speakers - we're doing well so far. [Have a look at our website (in Estonian).](https://www.eestiabstraktsus.ee/) In March 2022 we secured funding from the Kadri, Nikolai and Gerda Rõuk Fund at our institute to finish collecting the ratings, but to also collect modality and affectiveness ratings for 500 Estonian nouns. The result of this mini project will be a searchable database with all the ratings. We shall call her **SEMTEEK**.
 
 #### Vague quantifiers in Estonian
 
