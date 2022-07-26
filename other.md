@@ -1,13 +1,16 @@
 ## Ongoing things
 
-### Lecture for teachers
+### Twinning consortium MEDAL 
 
-In April, I will be giving a short talk about my research to teachers of Estonian as a foreign language. Together with a couple of colleagues, we will talk about different semantic aspects of language. The goal is to offer teachers a bit of a different look on language. We will have help from experts who will later discuss with the teachers how they can apply our research into their teaching!
+Very happy that we managed to secure funding from the EU Twinning measure for the MEDAL (Methodological Excellence in Data-Driven Approaches to Linguistics) consoritum: a combined effort between University of Tartu, Radboud University, Max Planck Institute for Psycholinguistics, and University of Birmingham. I was a part of the grant-writing team, the project itself will start in January 2023.
 
 ---
 
 ## Past things
 
+### Lecture for teachers
+
+In April 2022, I gave a short talk about my research to teachers of Estonian as a foreign language. Together with a couple of colleagues, we talked about different semantic aspects of language. The goal is to offer teachers a bit of a different look on language.
 
 ### Baltic Summer School of Digital Humanities 2021: "Digital Methods in Humanities and Social Sciences" (2021)
 
